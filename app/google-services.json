@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766441450563",
+    "project_id": "cwhatsapp-945fa",
+    "storage_bucket": "cwhatsapp-945fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766441450563:android:d054353e5537ad0a0a78f6",
+        "android_client_info": {
+          "package_name": "com.chandan.cwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766441450563-jov7e2v3pjs7lgrju2cdji2oquurnfc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-OsuikNYDO6KRB11wZGNcL19pZxxha2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766441450563-jov7e2v3pjs7lgrju2cdji2oquurnfc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
